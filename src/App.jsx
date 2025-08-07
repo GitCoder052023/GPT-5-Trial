@@ -1,10 +1,10 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Features from "./components/Features";
-import Integrations from "./components/Integrations";
-import Pricing from "./components/Pricing";
-import FAQ from "./components/FAQ";
-import Footer from "./components/Footer";
+import Navbar from "./Components/Navbar";
+import Hero from "./Components/Hero";
+import Features from "./Components/Features";
+import Integrations from "./Components/Integrations";
+import Pricing from "./Components/Pricing";
+import FAQ from "./Components/FAQ";
+import Footer from "./Components/Footer";
 
 export default function App() {
   return (
